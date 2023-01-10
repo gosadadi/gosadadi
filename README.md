@@ -12,9 +12,6 @@ I am a full stack developer with experience in building web applications using a
 
 - **[Inventory-app](https://github.com/gosadadi/myInventoryApp-client)**: A MangoDB, Express,React, and Node JS (MERN) web application that allows users to track their inventory. Built using Express JS and MangoDB for the back-end, and React for the front-end.
 
-## Open-source Contributions
-- [Open-source project](https://github.com/org/project) : Contributed to the front-end development of an open-source project using React
-
 ## Contact me
 - Email: gosa.d.dadi@gmail.com
 - LinkedIn: [linkedin.com/in/gosa-d-dadi](https://www.linkedin.com/in/gosa-d-dadi)
