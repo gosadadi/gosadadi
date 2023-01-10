@@ -8,7 +8,7 @@ I am a full stack developer with experience in building web applications using a
 - Strong problem-solving and debugging skills
 ## Selected Projects
 
-- **[Library](https://github.com/gosadadi/book-discovery-server**: A web application built using Java and React that allows users to reserve and checkout their favorite books. Utilized Spring Boot for the back-end and used React hooks and material-UI on the front-end. Deployed backend to Heroku and frontend to Vercel.
+- **[Library](https://github.com/gosadadi/book-discovery-server)**: A web application built using Java and React that allows users to reserve and checkout their favorite books. Utilized Spring Boot for the back-end and used React hooks and material-UI on the front-end. Deployed backend to Heroku and frontend to Vercel.
 
 - **[Inventory-app](https://github.com/gosadadi/myInventoryApp-client)**: A MangoDB, Express,React, and Node JS (MERN) web application that allows users to track their inventory. Built using Express JS and MangoDB for the back-end, and React for the front-end.
 
